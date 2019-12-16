@@ -8,7 +8,7 @@
             "name": "Python: Django",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/portal/manage.py",
+            "program": "${workspaceFolder}/manage.py",
             "console": "integratedTerminal",
             "cwd": "${workspaceFolder}",
             "args": [
